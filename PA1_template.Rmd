@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Reaearch Assignment 1"
+title: "Reproducible Reaearch Assignment One"
 author: "Ajay"
 date: "Wednesday, January 14, 2015"
 output: html_document
@@ -159,7 +159,7 @@ There is no diference between the mean and median of the original data and the m
 
 ##Are there differences in activity patterns between weekdays and weekends?
 
-###Create a new factor variable in the dataset with two levels – “weekday” and “weekend” indicating whether a given date is a weekday or weekend day.
+###Create a new factor variable in the dataset with two levels - "weekday" and "weekend" indicating whether a given date is a weekday or weekend day.
 
 - The new factor variable is created in such a way that if the day corresponding to each entry falls on "Sunday" or "Saturday", it is marked as a "Weekend" else a "Weekday"
 
